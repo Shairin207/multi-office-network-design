@@ -1,0 +1,17 @@
+# Operating system
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Environment and secrets
+.env
+*.env
